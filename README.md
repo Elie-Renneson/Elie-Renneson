@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elie-renneson" alt="elie-renneson" /></a> </p>
 
-- 📫 How to reach me **rennes_e@etna-alternance.net**
+- 📫 How to reach me **eliealliena@gmail.com**
 
 - ⚡ Fun fact **I only like C/C++**
 
